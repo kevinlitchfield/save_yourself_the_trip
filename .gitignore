@@ -1,0 +1,14 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# rspec failure tracking
+.rspec_status
+
+Gemfile.lock
+save_yourself_the_trip_test.db
